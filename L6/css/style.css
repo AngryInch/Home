@@ -1,0 +1,155 @@
+body{
+    background: linear-gradient(69deg, #B51D0A 59%, #662225 78%);
+    color: snow;
+    text-indent: 30px;
+}
+h1{
+    text-align: center;
+    letter-spacing: 2px;
+}
+p{
+    padding: 5px 10px 8px 5px;
+    margin-top: 7px;
+}
+.First{
+    font-family: 'PressStart';
+}
+.Second{
+    font-family: 'MontserratAlternates';
+    font-style: normal;
+    font-weight: 900;
+}
+.Third{
+    font-family: 'GentiumPlus';
+    font-style: italic;
+    font-weight: 700;
+}
+.POne{
+    font-family: 'MontserratAlternates';
+    font-style: normal;
+    font-weight: 100;
+    letter-spacing: -1px;
+    line-height: 10px;
+}
+.PTwo{
+    font-family: 'MontserratAlternates';
+    font-style: italic;
+    font-weight: 100;
+    letter-spacing: 1px;
+    line-height: 20px;
+}
+.PThree{
+    font-family: 'MontserratAlternates';
+    font-style: normal;
+    font-weight: 200;
+    letter-spacing: 2px;
+    line-height: 30px;
+}
+.PFour{
+    font-family: 'MontserratAlternates';
+    font-style: italic;
+    font-weight: 200;
+    letter-spacing: 3px;
+    line-height: 40px;
+}
+.PFive{
+    font-family: 'MontserratAlternates';
+    font-style: normal;
+    font-weight: 300;
+    letter-spacing: 4px;
+    line-height: 50px;
+}
+.PSix{
+    font-family: 'MontserratAlternates';
+    font-style: italic;
+    font-weight: 300;
+}
+.PSeven{
+    font-family: 'MontserratAlternates';
+    font-style: normal;
+    font-weight: 400;
+}
+.PEight{
+    font-family: 'MontserratAlternates';
+    font-style: italic;
+    font-family: 400;
+}
+.PNine{
+    font-family: 'MontserratAlternates';
+    font-style: normal;
+    font-weight: 500;
+}
+
+.PTen{
+    font-family: 'MontserratAlternates';
+    font-style: italic;
+    font-weight: 500;
+}
+
+.PEleven{
+    font-family: 'MontserratAlternates';
+    font-style: normal;
+    font-weight: 600;
+}
+
+.PTwelve{
+    font-family: 'MontserratAlternates';
+    font-style: italic;
+    font-weight: 600;
+}
+
+.PThirteen{
+    font-family: 'MontserratAlternates';
+    font-style: normal;
+    font-weight: 700;
+}
+.PFourteen{
+    font-family: 'MontserratAlternates';
+    font-style: italic;
+    font-weight: 700;
+}
+.PFifteen{
+    font-family: 'MontserratAlternates';
+    font-style: normal;
+    font-weight: 800;
+}
+.PSixteen{
+    font-family: 'MontserratAlternates';
+    font-style: italic;
+    font-weight: 800;
+}
+.PSeventeen{
+    font-family: 'MontserratAlternates';
+    font-style: normal;
+    font-weight: 900;
+}
+.PEightteen{
+    font-family: 'MontserratAlternates';
+    font-style: italic;
+    font-weight: 900;
+}
+.PNineteen{
+    font-family: 'PressStart';
+    font-style: normal;
+    font-weight: 400;
+}
+.PTwenty{
+    font-family: 'GentiumPlus';
+    font-style: normal;
+    font-weight: 400;
+}
+.PTwentyone{
+    font-family: 'GentiumPlus';
+    font-style: italic;
+    font-weight: 400;
+}
+.PTwentytwo{
+    font-family: 'GentiumPlus';
+    font-style: normal;
+    font-weight: 700;
+}
+.PTwentythree{
+    font-family: 'GentiumPlus';
+    font-style: italic;
+    font-weight: 700;
+}
